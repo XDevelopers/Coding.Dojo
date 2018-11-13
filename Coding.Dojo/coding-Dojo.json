@@ -1,0 +1,132 @@
+[
+    {
+        "NomeCompleto": "Waylen Doggrell",
+        "Cpf": "678-92-1876",
+        "DataNascimento": "03/03/2009",
+        "Email": "wdoggrell0@cocolog-nifty.com",
+        "Endereco": {
+            "Logradouro": "518 Schmedeman Park",
+            "Numero": "363",
+            "Cep": "478008",
+            "Cidade": "Ciénaga"
+        },
+        "TelefoneCelular": "(723) 6423685"
+    },
+    {
+        "NomeCompleto": "Trenton MacDiarmond",
+        "Cpf": "627-99-4493",
+        "DataNascimento": "24/05/2013",
+        "Email": "tmacdiarmond1@comsenz.com",
+        "Endereco": {
+            "Logradouro": "0 Pawling Junction",
+            "Numero": "00370",
+            "Cep": "72404 CEDEX",
+            "Cidade": "La Ferté-Bernard"
+        },
+        "TelefoneCelular": "(715) 2921993"
+    },
+    {
+        "NomeCompleto": "Gerik Pettet",
+        "Cpf": "554-24-8691",
+        "DataNascimento": "30/11/1982",
+        "Email": "gpettet2@nhs.uk",
+        "Endereco": {
+            "Logradouro": "7 Green Road",
+            "Numero": "3",
+            "Cep": "392558",
+            "Cidade": "Komsomolets"
+        },
+        "TelefoneCelular": "(725) 7794572"
+    },
+    {
+        "NomeCompleto": "Tanhya Bartrap",
+        "Cpf": "213-23-3241",
+        "DataNascimento": "16/07/2010",
+        "Email": "tbartrap3@list-manage.com",
+        "Endereco": {
+            "Logradouro": "961 Transport Court",
+            "Numero": "06",
+            "Cep": null,
+            "Cidade": "Kouvarás"
+        },
+        "TelefoneCelular": "(122) 7462970"
+    },
+    {
+        "NomeCompleto": "Fernanda Blenkinsop",
+        "Cpf": "437-44-1956",
+        "DataNascimento": "04/02/2014",
+        "Email": "fblenkinsop4@bigcartel.com",
+        "Endereco": {
+            "Logradouro": "38986 Southridge Hill",
+            "Numero": "9",
+            "Cep": null,
+            "Cidade": "Kaingiwa"
+        },
+        "TelefoneCelular": "(676) 8112742"
+    },
+    {
+        "NomeCompleto": "Oliviero Cory",
+        "Cpf": "397-18-8646",
+        "DataNascimento": "27/06/2010",
+        "Email": "ocory5@vistaprint.com",
+        "Endereco": {
+            "Logradouro": "4 Goodland Court",
+            "Numero": "166",
+            "Cep": null,
+            "Cidade": "Thị Trấn Than Uyên"
+        },
+        "TelefoneCelular": "(842) 6692925"
+    },
+    {
+        "NomeCompleto": "Opaline Gibson",
+        "Cpf": "113-08-7626",
+        "DataNascimento": "17/06/2009",
+        "Email": "ogibson6@state.gov",
+        "Endereco": {
+            "Logradouro": "74 Manley Hill",
+            "Numero": "80366",
+            "Cep": null,
+            "Cidade": "Santiago"
+        },
+        "TelefoneCelular": "(346) 4145996"
+    },
+    {
+        "NomeCompleto": "Hilda Edgin",
+        "Cpf": "374-57-4514",
+        "DataNascimento": "26/01/1988",
+        "Email": "hedgin7@wsj.com",
+        "Endereco": {
+            "Logradouro": "583 Banding Crossing",
+            "Numero": "24",
+            "Cep": null,
+            "Cidade": "Cheongju-si"
+        },
+        "TelefoneCelular": "(206) 9894503"
+    },
+    {
+        "NomeCompleto": "Garrick Pletts",
+        "Cpf": "298-14-0136",
+        "DataNascimento": "02/11/1985",
+        "Email": "gpletts8@ebay.co.uk",
+        "Endereco": {
+            "Logradouro": "108 Lien Way",
+            "Numero": "50713",
+            "Cep": null,
+            "Cidade": "Sidaurip"
+        },
+        "TelefoneCelular": "(250) 3943104"
+    },
+    {
+        "NomeCompleto": "Hermina McGrah",
+        "Cpf": "758-59-4525",
+        "DataNascimento": "24/08/1997",
+        "Email": "hmcgrah9@netlog.com",
+        "Endereco": {
+            "Logradouro": "55004 Huxley Park",
+            "Numero": "37",
+            "Cep": null,
+            "Cidade": "San Marcos"
+        },
+        "TelefoneCelular": "(994) 9178730"
+    }
+]
